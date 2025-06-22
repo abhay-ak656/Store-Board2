@@ -1,0 +1,18 @@
+@media (max-width:450px){
+   .item-forms{
+      width: 100%;
+      padding: 2rem;
+      height: 100%;
+   }
+   .cover-image .file{
+     padding: 0.5rem;
+     font-size: small;
+   }
+    .additional-image .file{
+     padding: 0.5rem;
+     font-size: small;
+   }
+   .item-forms button{
+    margin: 0;
+   }
+}

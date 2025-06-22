@@ -1,0 +1,29 @@
+
+/* .slick-list{
+    height: 15rem !important;
+} */
+   @media (max-width:450px){
+    .image-conatiner {
+    width: 80%;
+   }
+   .image-conatiner img{
+    margin-left: 0;
+   }
+   }
+
+   @media (min-width:500px) and (max-width:1050px){
+      .image-conatiner {
+    width: 100%;
+   }
+   .image-conatiner img{
+    margin-left: 0;
+    height: 400px !important;
+    width: 800px !important;
+   }
+   }
+    .slick-prev:before,
+    .slick-next:before {
+      color: rgb(129, 59, 59) !important;
+      font-size: 20px;
+      
+    }
